@@ -1,2 +1,2 @@
 # matlab
-Here is the some conde of numerical method 
+Here is some code of numerical method 
